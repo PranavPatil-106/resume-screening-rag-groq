@@ -156,8 +156,7 @@ models/
 *.bin
 *.safetensors
 
-# Vector stores and embeddings
-vectorstore/
+# Vector stores and embeddings (keep code tracked; ignore only data artifacts)
 embeddings/
 *.faiss
 *.index
